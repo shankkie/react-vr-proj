@@ -18,7 +18,7 @@
     "react-router-dom": "^5.1.2",
     "react-vr": "~2.0.0",
     "react-vr-web": "~2.0.0",
-    "three": "^0.113.2"
+    "three": "^0.125.0"
   },
   "devDependencies": {
     "babel-jest": "^25.1.0",
